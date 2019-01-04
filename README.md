@@ -1,15 +1,6 @@
-# CS118 Project 1
+# CS118 Project 0
 
-Template for for [UCLA CS118 Spring 2017 Project 1](http://web.cs.ucla.edu/classes/spring17/cs118/project-1.html)
-
-## Makefile
-
-This provides a couple make targets for things.
-By default (all target), it makes the `server` and `client` executables.
-
-It provides a `clean` target, and `tarball` target to create the submission file as well.
-
-You will need to modify the `Makefile` to add your userid for the `.tar.gz` turn-in at the top of the file.
+This is the repo for winter19 cs118 project 0.
 
 ## Academic Integrity Note
 
@@ -17,7 +8,7 @@ You are encouraged to host your code in private repositories on [GitHub](https:/
 
 ## Provided Files
 
-`server.cpp` and `client.cpp` are the entry points for the server and client part of the project.
+`Vagrantfile` is file to setup and configure VM instance.
 
 ## TODO
 
